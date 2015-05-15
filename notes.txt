@@ -1,0 +1,44 @@
+
+
+
+
+Repository 
+- collection of all the versions of this particular project	
+	- order of change
+	- description of change
+	- who made the change
+
+Terminology
+- Commit
+
+Version control system
+- tools to review history
+- share project with others
+- multiple developers in one project
+- Git is recommended
+	- invented by Linus Tovalds, father of Linux OS
+		- over 15 million lines of code
+		- every new kernel released involves 1000 developers
+	- distributed version control system 
+		- not centralised repository
+		- everyone maintains a local repository
+	- GitHub is like a social network of repository
+		- can share or keep to yourself
+		- can add comment, community etc
+	- .git hidden folder is there to store the whole project repository
+
+Cowboy coder
+- coder who doesn't use version control
+- client changes mind, so may need to manually changes,
+	- if they don't want it
+	- if they want it at a later 
+- may need to keep track each file in diff versions
+- what if need to work with another developer? merge etc?
+
+===================
+Mac - Git installed by default
+Windows - video guide to follow to install Git
+Use tree house console to avoid using console
+
+
+
