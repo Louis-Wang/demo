@@ -2,7 +2,7 @@ DEVELOP
 
 develop new things
 
-what about now
+what about now it is a problem
 
 Repository 
 - collection of all the versions of this particular project	
