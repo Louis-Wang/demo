@@ -2,7 +2,7 @@ DEVELOP
 
 develop new things
 
-This is from master branch
+This is from master branch causing conflict
 
 Repository 
 - collection of all the versions of this particular project	
